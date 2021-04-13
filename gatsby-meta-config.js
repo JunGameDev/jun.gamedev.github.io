@@ -1,5 +1,5 @@
 module.exports = {
-  title: ` GameDev.Log( ""nearly_0" ) `,
+  title: `GameDev.Log(nearly_0)`,
   description: `Blog posted about Game Dev, C++, Graphics, and Game Engines`,
   author: `nearly_0`,
   introduction: `A passionate C++ Lover Interested in C++, Graphics, and Game Engine Dev.`,
