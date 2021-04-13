@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://nearly0.netlify.com`, // Your blog site url
   social: {
     twitter: `nearly_0`, // Your Twitter account
-    github: `nearlyZer0`, // Your GitHub account
+    github: `nearly-0`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,13 +15,13 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'nearlyZer0/personal_blog', // Your repository for archive comment
+    utterances: 'nearly-0/personal_blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'nearlyZer0',
+    buyMeACoffeeId: 'nearly-0',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
