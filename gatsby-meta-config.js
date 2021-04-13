@@ -1,5 +1,5 @@
 module.exports = {
-  title: `nearly_0의 TIL`,
+  title: `nearly_0's GameDev Log`,
   description: `Blog posted about Game Dev, C++, Graphics, and Game Engines`,
   author: `nearly_0`,
   introduction: `A passionate C++ Lover Interested in C++, Graphics, and Game Engine Dev.`,
