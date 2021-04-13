@@ -2,7 +2,7 @@ module.exports = {
   title: `nearly_0의 TIL`,
   description: `Blog posted about Game Dev, C++, Graphics, and Game Engines`,
   author: `nearly_0`,
-  introduction: `회사에서 C++을 사용하고 싶어하지만, Lua로 고통 받고 있는 클라이언트 프로그래머.`,
+  introduction: `A passionate C++ Lover who is interested in game engine dev.`,
   siteUrl: `https://nearly0.netlify.com`, // Your blog site url
   social: {
     twitter: `nearly_0`, // Your Twitter account
