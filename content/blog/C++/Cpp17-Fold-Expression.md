@@ -9,6 +9,7 @@ draft: false
 - binary 오퍼레이터을 통해 파리미터 팩(Parameter Pack) 줄여서 표현하는 표현식
 - binary 혹은 unary fold 두 종류가 존재.
 <br>
+
 # 🔷 <b>탄생 배경</b>
  C++ 11에 도입된 가변 길이 템플릿(variadic template)을 재귀 함수 형태로 구성시, 반드시 재귀 호출 종료를 위한 함수(terminator)를 만들어야하는 불편함이 있었다.
  
@@ -18,7 +19,7 @@ draft: false
 template<typename Type1, typename... Type>
 int SumAll(Type1 s, Type... ts>
 {
-	return s + SumAll(ts...);
+    return s + SumAll(ts...);
 }
 
 // 파라미터 팩이 없을 경우의 바운더리 컨디션
@@ -69,7 +70,7 @@ Right/Left 기준은 pack(...)의 위치이며, pack의 위치에 따라 오퍼�
     template<typename... Args>
     auto Sum(Args... args)
     {
-		return (... + args);
+	    return (... + args);
     }
 
     auto val = Sum(3, 5, 7, 9); // value == 24
@@ -91,8 +92,8 @@ Right/Left 기준은 pack(...)의 위치이며, pack의 위치에 따라 오퍼�
     template<typename... Args>
     auto Sum(Args... args)
     {
-    		// 1 -> init
-    		return (args + ... + 1);
+    	// 1 -> init
+    	return (args + ... + 1);
     }
     ```
 
@@ -104,8 +105,8 @@ Right/Left 기준은 pack(...)의 위치이며, pack의 위치에 따라 오퍼�
     template<typename... Args>
     auto Sum(Args... args)
     {
-    		// 1 -> init
-    		return (1 + ... args);;
+    	// 1 -> init
+    	return (1 + ... args);;
     }
     ```
 <br>
