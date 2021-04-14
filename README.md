@@ -11,6 +11,6 @@ This is test.
 
 <div align="center">
 
-<sub><sup>Jun's personal blog powered by <a href="https://github.com/JaeYeopHan">@Jbee</a></sup></sub>
+<sub><sup>Jun's personal blog powered by <a href="https://github.com/nearly-0">@nearly_0</a></sup></sub>
 
 </div>
