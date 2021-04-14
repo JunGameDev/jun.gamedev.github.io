@@ -99,7 +99,7 @@ Right/Left 기준은 pack(...)의 위치이며, pack의 위치에 따라 오퍼�
 
     순서: (3 + (5 + (7 + (9 + 1))))
 
-2. Binary Left Fold `(init op ... op pack)`
+2. <b>Binary Left Fold `(init op ... op pack)`</b>
 
     ```cpp
     template<typename... Args>
@@ -155,7 +155,7 @@ Do something with 4
 ```cpp
 (t.DoSomething(nums), ...);
 ```
-위는 사실상 모든 인자들에 대해서 ```t.DoSomething(arg)```를 실행하는 것과 같다.
+위는 사실상 모든 인자들에 대해서 <b>```t.DoSomething(arg)```</b>를 실행하는 것과 같다.
 
 <br>
 
