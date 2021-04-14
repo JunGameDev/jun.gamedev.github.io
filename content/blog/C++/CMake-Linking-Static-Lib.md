@@ -65,10 +65,10 @@ target_link_libraries(${ProjectName}
 
 다른 점은, 아래와 같다.<br>
 
-| Function Name           | Description                                                |
-| ----------------------- | ---------------------------------------------------------- |
-| target_link_directories | 사용하고자 하는 라이브러리에 대한 절대 or 상대 경로가 필요 |
-| target_link_libraries   | 사용하고자 하는 라이브러리의 이름 필요                     |
+| Function Name                 | Description                                                |
+| ----------------------------- | ---------------------------------------------------------- |
+| ```target_link_directories``` | 사용하고자 하는 라이브러리에 대한 절대 or 상대 경로가 필요 |
+| ```target_link_libraries```   | 사용하고자 하는 라이브러리의 이름 필요                     |
 
 
 
