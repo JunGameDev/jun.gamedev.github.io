@@ -1,8 +1,8 @@
 ---
 title: 'DXGI 정리'
-date: 2021-05-17 02:36:00
+date: 2021-05-18 01:19:00
 category: 'DirectX'
-draft: true
+draft: false
 ---
 
 [![DirectX 구성 요소](https://docs.microsoft.com/en-us/windows/win32/direct3ddxgi/images/dxgi-dll.png)]
