@@ -1,6 +1,6 @@
 ---
 title: 'DirectX 11의 렌더링 파이프라인'
-date: 2021-05-18 01:58:00
+date: 2021-05-18 01:57:00
 category: 'DirectX'
 draft: false
 ---
