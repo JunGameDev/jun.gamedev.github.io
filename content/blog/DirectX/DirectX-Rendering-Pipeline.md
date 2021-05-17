@@ -8,7 +8,7 @@ draft: false
 > ⚠️ 아래의 내용은 공부하면서 계속 추가될 예정이다.
 
 
-[![DirectX Rendering Pipeline](https://www.3dgep.com/wp-content/uploads/2014/03/DirectX-11-Rendering-Pipeline.png)]
+![](./images/rendering_pipeline.png)
 
 # 1. Input-Assembler Stage
 - 정점 정보를 전달하는 단계.
