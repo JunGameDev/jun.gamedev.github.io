@@ -37,5 +37,5 @@ draft: false
 - 모든 데이터들을 결합해서 최종 색상을 결정함.
 
 # 📚 <b> 레퍼런스 </b>
-Introduction to DirectX 11 : https://www.3dgep.com/introduction-to-directx-11/#DXGI
+Introduction to DirectX 11 <br>: https://www.3dgep.com/introduction-to-directx-11/
 

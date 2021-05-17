@@ -1,6 +1,6 @@
 ---
 title: 'DirectX 11의 버퍼와 쉐이더 종류들'
-date: 2021-05-18 01::58
+date: 2021-05-18 01:57:00
 category: 'DirectX'
 draft: false
 ---
@@ -32,7 +32,7 @@ draft: false
 픽셀 셰이더는 GPU에 의해 많은 호출이 일어남으로, <b>반드시</b> 효율적으로 작성되어야한다.
 
 # 📚 <b> 레퍼런스 </b>
- Buffers, Shaders, and HLSL : http://www.rastertek.com/dx11tut04.html
+ Buffers, Shaders, and HLSL <br>: http://www.rastertek.com/dx11tut04.html
 
 
 
